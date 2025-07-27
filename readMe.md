@@ -14,3 +14,4 @@
 
 ## branch2
 * commiting from branch 2
+* testing the branch strategy
