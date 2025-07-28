@@ -21,9 +21,6 @@
 - Testing the reset, revert, cherry pick
 - add 1
 
-## Testing2
-- testing2 is added
-
 
 ## Testing3
 - testing3 is added
